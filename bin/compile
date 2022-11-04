@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo $BUILD_DIR
+ls -lah $BUILD_DIR
+
+ls -lah .
+exit 0
